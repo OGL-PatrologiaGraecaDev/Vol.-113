@@ -1,0 +1,28 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/113/mdp.39015078384305/002.png"; bbox 0 0 2034 3162; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 18 2176 62 2712">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 18 2227 62 2712">
+     <span class='ocr_line' id='line_1_1' title="bbox 18 2227 43 2278; baseline 0 -7"><span class='ocrx_word' id='word_1_1' title='bbox 18 2227 43 2278; x_wconf 61' lang='grc' dir='ltr'>ζει</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 18 2282 47 2326; baseline 0.138 -4"><span class='ocrx_word' id='word_1_2' title='bbox 18 2282 47 2326; x_wconf 67' lang='grc' dir='ltr'>ἐξ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 18 2359 62 2414; baseline -0.136 0"><span class='ocrx_word' id='word_1_3' title='bbox 18 2359 62 2414; x_wconf 43' lang='grc' dir='ltr'>ξξκ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 18 2415 55 2442; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 18 2415 55 2442; x_wconf 41' lang='lat' dir='ltr'>Et</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 18 2604 50 2712; baseline 0 -81"><span class='ocrx_word' id='word_1_5' title='bbox 18 2604 50 2712; x_wconf 61' lang='grc' dir='ltr'><em>ἐ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 1985 26 2558">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 1985 26 2558">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 1985 7 1996; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 1985 7 1996; x_wconf 66' lang='grc' dir='ltr'>ι</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 0 2094 14 2121; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 2094 14 2121; x_wconf 63' lang='lat' dir='ltr'>’r</span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 0 2137 16 2168; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 2137 16 2168; x_wconf 73' lang='grc' dir='ltr'>Ξ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 0 2170 26 2558; baseline -1.077 2"><span class='ocrx_word' id='word_1_9' title='bbox 0 2170 23 2558; x_wconf 67' lang='grc' dir='ltr'>ἒ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
